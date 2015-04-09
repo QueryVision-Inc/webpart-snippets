@@ -1,0 +1,7 @@
+<NameSpace>
+   <Name>CognosNameSpace</Name>
+  <DisplayName>MyCognosNameSpace</DisplayName>
+  <NameSpaceID>MyCognosNameSpaceID</NameSpaceID>
+  <NetbiosDomain>MyDomainName</NetbiosDomain>
+  <Default>True</Default>
+</NameSpace>
